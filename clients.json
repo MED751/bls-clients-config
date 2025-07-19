@@ -1,0 +1,18 @@
+{
+  "globalConfig": {
+    "autoLogin": true,
+    "autoSubmit": false
+  },
+  "clients": {
+    "profile1": {
+      "email": "client1@gmail.com",
+      "password": "pass1",
+      "visaProfile": "casawork"
+    },
+    "profile2": {
+      "email": "client2@gmail.com",
+      "password": "pass2",
+      "visaProfile": "regrepment"
+    }
+  }
+}
