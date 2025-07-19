@@ -3,16 +3,18 @@
     "autoLogin": true,
     "autoSubmit": false
   },
-  "clients": {
-    "profile1": {
-      "email": "client1@gmail.com",
-      "password": "pass1",
+  "clients": [
+    {
+      "name": "profile1",
+      "email": "aimenbdn@gmail.com",
+      "password": "MED@2002aym",
       "visaProfile": "casawork"
     },
-    "profile2": {
+    {
+      "name": "profile2",
       "email": "client2@gmail.com",
       "password": "pass2",
       "visaProfile": "regrepment"
     }
-  }
+  ]
 }
